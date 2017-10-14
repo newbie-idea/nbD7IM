@@ -1,2 +1,2 @@
-# nbD7IM
-nbD7IM is a decentralized, multiprotocol instant messenger for Android
+# nbxd.d7.im
+nbxd.d7.im is a decentralized, multiprotocol instant messenger for Android
